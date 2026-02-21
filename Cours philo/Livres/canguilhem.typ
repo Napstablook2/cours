@@ -280,3 +280,9 @@ Canguilhem affirme qu'il faut aborder positivement, c'est à dire rationnellemen
 ])
 
 Le monstre est fantasme et défaillance de la raison
+
+La tératologie devient une science naturelle et même une tératogénie où on crée des monstres. Le paradoxe du monde moderne est que le monstreux est maintenant raccroché au normal : le monstre biologique n'est plus un objet de peur, mais de pitié. Ce qui fait peur maintenant c'est le vice caché dans le normal.
+
+_Page 234_, la vie crée toute seule ses monstres, le savant ne fait que perturber ou personnaliser un procédé que la nature fait sans lui. La vie est pauvre en monstre car les organismes ne sont capable d'excentricité qu'à un cours moment de leur développement, le stade embryonnaire, tandis que le fantastique est un monde car il est capable de peupler un monde, il est infatigable.
+
+Chez Canguilhem, il n'y a pas de monstreux chez les monstruosités biologiques, et la vie n'est que pauvre en monstre
