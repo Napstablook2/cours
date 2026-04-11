@@ -472,3 +472,48 @@ Pour Aronnax, l'idée est de ne pas laisser les hommems dans l'ignorance mais de
 Chez Jules Verne, faire l'expérience de la Nature c'est partir à la découverte d'un milieu inconnu, faire oeuvre d'explorateur. Un explorateur pris entre l'émerveillement, l'assimilation de ces découvertes mais également la moralisation de notre rapport au monde : l'émerveillement car sans émerveillement il n'y a pas d'expérience de la nature. L'assimilation car la nature offre une sorte de magma informe et c'est à l'homme qu'appartient de la répertorier et la classer, la contrôler par l'esprit. La moralisation car en bon républicain de l'époque, Jules Verne n'écrit pas ça gratuitement, il écrit pour des enfants et il y a un message derrière, sur notre rapport au monde que nous devons traîter avec respect et moralisation dans le rapport des hommes les uns aux autres dans lesquels la nature nous invite.
 
 Jules Verne étudie autant la nature extérieure que la nature intérieure et on peut terminer en disant qu'il s'agit d'une invitation à poursuivre par nous-même cette expérience. Le roman n'est que le débur d'une aventure et le voyage n'est pas fini.
+
+= C'est bien les citations
+
+#quotation([
+	"Depuis ce moment, en effet, les sinistres maritimes qui n'avaient pas de cause déterminée furent mis sur le compte du monstre"\
+	*I/I*
+
+	"[...] les imaginations se laissèrent bientôt aller aux plus absurdes rêveries d'une ichtyologie fantstique"\
+	*I/II*
+
+	"Les grandes profondeurs de l'océan nous sont totalement inconnues. La sonde n'a su les atteindre. Que se passe-t-il dans ces abîmes reculés ? [...] On saurait à peine le conjecturer"\
+	*I/II*
+
+	"Trois secondes après avoir lu la lettre de l'honorable secrétaire de la marine, je comprenais enfin que ma véritable vocation, l'unique but de ma vie, était de chasser ce monstre inquétant et d'en purger le monde"\
+	*I/III*
+
+	"Le monstre existait, il en délivrerait les mers, il l'avait juré. [...] Ou le commandant Faragut tuerait le narval, ou le narval tuerait le commandant Faragut"\
+	*I/IV*
+
+	"Le doute nétait pas possible ! L'animal, le monstre, le phénomène naturel qui avait intrigué le monde savant tout entier [...] c'était un phénomène plus étonnant encore, un phénomène de main d'homme"\
+	*I/VII*
+
+	Les discours des trois personnages sont les même sur le fond, mais la forme montre bien vite leur caractère respectif\
+	*I/VIII*
+
+	"Monsieur le professeur [...], je ne suis pas ce que vous appelez un homme civilisé !"\
+	*I/X*
+
+	Il chasse les animaux marins et utilise exclusivement les produits de la mer mais les utilise pour reproduire des plats terrestres\
+	*I/X*
+
+	"Oui ! je l'aime ! La mer est tout ! [...] Là je ne reconnais pas de maîtres ! Là je suis libre"\
+	*I/X*
+])
+
+#quotation([
+	Une bibliothèque comportant 12000 volumes, un savoir humain énorme mais se coupe du monde : "Ce jour là, j'ai acheté mes derniers volumes, mes dernières brochures, mes derniers journaux, et depuis lors, je veux croire que l'humanité n'as plus ni pensé ni écrit"\
+	*I/XI*
+
+	Une collection énorme : "Ainsi donc, chiffrer la valeur de cette collection était, pour ainsi dire, impossible."
+	*I/XI*
+
+	"Mais où va Nemo ?"\
+	*II/XIII*
+])

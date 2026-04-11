@@ -39,7 +39,7 @@ Canguilhem est un philosophe épistémologue, c'est à dire un philosophe de la 
 
 Canguilhem commence à dire que quand on s'intéresse aux processus de connaissance, on s'intéresse d'avantage à la façon de connnaître qu'au sens même de la connaissance. Savoir pour savoir n'est pas plus censé que tuer pour tuer, quel sens donner à cette connaissance ? On se pose souvent la question de "Comment peut-on savoir ?", mais infiniment moins la question "Pourquoi savoir ?".
 
-Canguilhem est ainsi ici quelqu'un de pragramtique : ce n'est pas le scientifique déconnecté de la nature qui l'étudie pour la beauté d'elle même ; il étudie la médecine pour le comprendre et pour qu'il nous permette de mieux vivre.
+Canguilhem est ainsi ici quelqu'un de pragmatique : ce n'est pas le scientifique déconnecté de la nature qui l'étudie pour la beauté d'elle même ; il étudie la médecine pour la comprendre et pour qu'elle nous permette de mieux vivre.
 
 Il importe d'autant plus à Canguilhem de trouver dans la vie le sens de celle-ci, ses raisons d'être et d'agir comme elle agit. La connaissance n'est pas une chose qui nous éloigne de la vie mais au contraire qui nous en rapproche, qui au contraire qui aide l'homme à mieux vivre.
 
@@ -65,7 +65,7 @@ Ils sont aussi savant que l'homme, mais simplement dans leurs domaines respectif
 
 La science se veut extérieur à la nature en faisant une analyse de la nature. Cela amène alors à une position ambigue car tantôt on s'émerveille de la nature, tantôt on tente de la dominer en se croyant séparé du reste de celle-ci. Ainsi, _"la connaisssance est fille de la peur humaine"_ : le savoir scientifique est une réaction à l'angoisse, aux menaces que la vie et la nature font peser sur nous. *La connaissance scientifique est donc avant tout une tentative de se mettre en sécurité face au monde.*
 
-Quand Canguilhem parle de domination _"Si la connaissance est fille de la peur, c'est pour la domination et l'organisation de l'expérience humaine, pour la liberté de la vie."_, c'est que la vie est pour lui un combat et une adaptation permanente. Un organisme est vivant tant qu'il parvient à s'adapater à son environnement. Il s'agit dont de dominer les forces du milieu qui menacent notre vie, que ce soit la maladie, la famine, les catastrophes, etc...
+Quand Canguilhem parle de domination _"Si la connaissance est fille de la peur, c'est pour la domination et l'organisation de l'expérience humaine, pour la liberté de la vie."_, c'est que la vie est pour lui un combat et une adaptation permanente. Un organisme est vivant tant qu'il parvient à s'adapater à son environnement. Il s'agit donc de dominer les forces du milieu qui menacent notre vie, que ce soit la maladie, la famine, les catastrophes, etc...
 
 Il nous parle ainsi ici de liberté de la vie car c'est la finalité qui donne son sens à cette idée de domination : la domination n'as pas de but en soi, sa finalité est de nous permettre d'atteindre une plusu grande liberté. Pour Canguilhem, la liberté est la capacité d'un organisme à réagir librement face au monde qui lui entour, ne pas être enfermé dans son milieu mais capable de réagir.
 
@@ -116,7 +116,7 @@ Il s'agit toujours de partir du vivant, de l'observation du vivant, pour remonte
 
 On a, dans la citation de Claude Bernard, _page 25-26_, un passage fondamental. Le milieu extérieur désigne l'ensemble de ce qui est extérieur à l'organisme, et pour une matière inerte, le milieu extérieur est le seul qui puisse exister. Pour un caillou, tout est extérieur, il subit passivement le monde extérieur. À l'inverse, Claude Bernard met en lumière le milieu intérieur. Il met en avant que le milieu intérieur se caractérise par une indépendance et un rôle protecteur vis à vis du milieu extérieur. Canguilhem s'appuie sur ce concept pour aller toujours dans le même sens : puisqu'il y a un milieu intérieur stable, c'est la preuve d'une liberté -- en tant que souplesse -- biologique de l'organisme ; il est capable d'être actif et indépendant, libre de décider de ses manières de réagir face à l'extérieur : plus il a de moyens de se défendre, puis il est libre. Ainsi, ce milieu intérieur est la démonstration expérimentale que la vie est capable de s'affranchir partiellement des lois extérieures et de créer ses propres conditions de survie. C'est ainsi son concept de normativité du vivant.
 
-Il met dos à dos les mécanistes et les finalistes. Les mécanistes expliquent la vie selon des lois de la matière, des lois extérieurs à l'ogranisme ; les finalistes eux expliquent la vie selon dessein divin qui serait tout autant extérieur. Pour Canguilhem aucun des deux ne saisi la spécificité interne du vivant. Pour les mécanistes, le vivant est passif et ne subit qu'un jeu de causes à effets et le vivant ne s'explique que comme une série d'automatismes ; pour le finaliste ce n'est pas beaucoup mieux, il est tout aussi passif en ce qu'il ne fait qu'exécuter un programme que quelqu'un d'autre -- Dieu ou la nature -- aurait destiné pour lui, et n'est que le pantin d'une force supérieure. Ils font alors preuve d'anthropocentrisme car ils plaquent la manière dont l'homme voit ses propres outils et voient la vie comme un simple prolongement de ceux-ci.\ Pour Canguilhem, au contraire, la vie est une aventure, une improvisation perpétuelle, une rencontre entre les milieux intérieurs et extérieurs. La vie est capable de savoir par elle-même ce qui est bon ou mauvais, elle est capable de s'auto-guider pour sa propre conservation, et ça, les finalistes et les mécanistes ne le voient pas.
+Il met dos à dos les mécanistes et les finalistes. Les mécanistes expliquent la vie selon des lois de la matière, des lois extérieurs à l'organisme ; les finalistes eux expliquent la vie selon un dessein divin qui serait tout autant extérieur. Pour Canguilhem aucun des deux ne saisi la spécificité interne du vivant. Pour les mécanistes, le vivant est passif et ne subit qu'un jeu de causes à effets et le vivant ne s'explique que comme une série d'automatismes ; pour le finaliste ce n'est pas beaucoup mieux, il est tout aussi passif en ce qu'il ne fait qu'exécuter un programme que quelqu'un d'autre -- Dieu ou la nature -- aurait destiné pour lui, et n'est que le pantin d'une force supérieure. Ils font alors preuve d'anthropocentrisme car ils plaquent la manière dont l'homme voit ses propres outils et voient la vie comme un simple prolongement de ceux-ci.\ Pour Canguilhem, au contraire, la vie est une aventure, une improvisation perpétuelle, une rencontre entre les milieux intérieurs et extérieurs. La vie est capable de savoir par elle-même ce qui est bon ou mauvais, elle est capable de s'auto-guider pour sa propre conservation, et ça, les finalistes et les mécanistes ne le voient pas.
 
 == L'expérimentation comme première fonction biologique
 
@@ -136,7 +136,7 @@ Or, _Page 31 à Page 38_, Canguilhem nous présente des précautions à avoir :
 Cependant, c'est selon lui ça qui fait la beauté de la biologie, il ne s'agit pas d'obstacles absolu, ce sont des "stimulants de l'invention" _page 38-39_
 
 _Page 43_ : Canguilhem revient sur une quetion "qu'un essai sur l'expérimentation biologique ne peut pas ici ignorer, celui des possibilités et de la permission d'expérimentation directe sur l'homme.". D'après lui, expérimenter sur l'homme permettrait de lever une partie des 4 obstacles levés plus tôt, mais il y a cependant des écueils. Cela se heurte d'abord à des préjugés et des problèmes de morale. Un deuxième écueil est de confondre l'expérimentation sur l'homme avec des interventions théraputiques ou des "préventions hygiénique ou pénales". À quel moment donné sort-on de l'expérimentation ?\
-Il revient _page 44_ sur Claude Bernard, et dit que lui ne voyait pas le problème et voyait l'intervention chirurgicale comme un moyen d'expérimenter : si j'opère et que j'expérimente sans cause aucun tort au patient, où est le problème ? Canguilhem s'y oppose et prétend qu'une intervention chirurgicale ne peut pas être une expérimentation acceptable, parce que l'acte médico-chirurgical n'est pas un simple acte scientifique : l'acte médico-chirurgical résout un problème physique mais permet de secourir une détresse, _page 45_. Le chirurgien n'est pas un scientifique comme les autres. Pour être sûr qu'il s'agit bien d'une unique expérience, il faudrait être persuadé que le chirurgien pouvait agir autrement, qu'il avait le chirurgien.\
+Il revient _page 44_ sur Claude Bernard, et dit que lui ne voyait pas le problème et voyait l'intervention chirurgicale comme un moyen d'expérimenter : si j'opère et que j'expérimente sans cause aucun tort au patient, où est le problème ? Canguilhem s'y oppose et prétend qu'une intervention chirurgicale ne peut pas être une expérimentation acceptable, parce que l'acte médico-chirurgical n'est pas un simple acte scientifique : l'acte médico-chirurgical résout un problème physique mais permet de secourir une détresse, _page 45_. Le chirurgien n'est pas un scientifique comme les autres. Pour être sûr qu'il s'agit bien d'une unique expérience, il faudrait être persuadé que le chirurgien pouvait agir autrement, qu'il avait le choix.\
 Pareillement, Canguilhem revient sur l'idée du consentement du patient, _page 46_ : peut-on vraiment être consentant à une expérimentation, faute de connaissance complète sur le domaine en question ? Canguilhem conclut sur le fait que le problème de l'expérimentation sur l'homme n'est pas tant un problème de technique qu'un problème de valeur, _page 47_
 
 _Page 48 - 49_ : Canguilhem fait le bilan à l'aide d'une image, l'image des hérissons pour voir le paradoxe de l'expérimentation biologique.\ Canguilhem part d'un passage de Jean Giraudoux qui dans #ul[l'Électre] présente une image philosophique de ses hérissons : Canguilhem reprend cette image du hérisson pour l'appliquer à la biologie et nous dit qu'elle n'as pas de sens biologiquement _page 49_, les hérissons ne traversent pas les routes, et pour les hérissons la route ça n'existe pas. Il vit sa vie selon ses propres normes sans se soucier de cette route qui traverse son milieu. Par contre, les routes elles traversent bien le milieu du hérisson. Ainsi, la méthode expérimentale est une sorte de route que l'homme trace dans le monde êtres vivants. La méthode étymologiquement signifie d'ailleurs la recherche d'une route/voie. Cette route est inévitable autant qu'artificielle.
@@ -147,7 +147,7 @@ Cependant, ce n'est pas une impasse, *il faut plutôt en conclure que la connais
 
 == "Aspects du vitalisme" vs "Machine et organisme"
 
-_Page 108_ : À chaque fois qu'on s'intéresse à un phénomène de la nature, on a des théories opposées. Qaudn on s'intéresse au problème des structures et fonctions, le mécanisme et le vitalisme s'affrontent. Il dit lui même qu'on peut se demander si à faire des aller-retour perpétuels on ne finirait pas par un peu tourner en rond. Il répond que non, cette opposition est une opposition dialectique qui permet de mieux comprendre le sens à donner à la vie : on ne peut pas comprend l'un sans l'autre.
+_Page 108_ : À chaque fois qu'on s'intéresse à un phénomène de la nature, on a des théories opposées. Qaudn on s'intéresse au problème des structures et fonctions, le mécanisme et le vitalisme s'affrontent. Il dit lui même qu'on peut se demander si à faire des aller-retour perpétuels on ne finirait pas par un peu tourner en rond. Il répond que non, cette opposition est une opposition dialectique qui permet de mieux comprendre le sens à donner à la vie : on ne peut pas comprendre l'un sans l'autre.
 
 Il commence par s'interroger sur sa légitimité de concilier philosophie et biologie : _page 105_. Si le biologiste réfléchi au vivant, le philosophe réfléchit au concept de vie, ce n'est donc pas stupide d'avoir quelqu'un qui fait les deux.
 
@@ -208,16 +208,16 @@ _Page 130_, on est parti de la machine pour expliquer le vivant, mais on devrait
 + Le renversement du rapport traditionnel entre machine et organisme\
 	Pour Canguilhem, il faut renverser ce rapport traditionnel ; l'analogie de la machine est de l'organisme est insuffisant et doit être repensé, car il y a une différence très nette : l'organisme tire sa norme de sa force intérieure alors que la machine tire tout cela de l'extérieur. La machine elle a besoin de l'ingénieur pour fonctionner tandis que l'organisme est son propre ingénieur, et pour lui cette image de l'animal machine ne peut pas fonctionner.\
 	Pour Canguilhem, _page 152_ la différence fondamentale réside dans la souplesse du vivant face à la rigidité technologique : la machine est enfermée dans un but et une finalité précises, dicté par des calculs stricts qui ne tolèrent aucune erreur, tandis que l'organisme lui ne parle pas de finalité mais de potentialité : un organisme vivant possède une réserve de potentialité lui permettant de s'adapter à l'imprévu. La vie n'est pas un programme figé mais est au contraire une improvisation constante. "La vie est expérience, c'est-à-dire improvisation, utilisation des occurences ; elle est tentative dans tous les sens". On a vu cependant que Canguilhem réhabilitait la finalité en disant que même chez Descartes cette question de la finalité est présente, mais non seulement il la réhabilite mais il la déplace, car il ne s'agit plus d'une finalité externe mais d'une finalité interne : pour Canguilhem on est pas dans un grand plan pensé par un être supérieur mais où au contraire la vie est son propre ingénieur interne. Dans la vision cartésienne, la finalité est figée : une horloge a une finalité figée, un plan unique ; Canguilhem lui pense que le vivant est au contraire une finalité beaucoup plus souple, beaucoup plus polyvalente. *La machine est téléologique, elle obéit a son but ; tandis que le vivant est normatif, il a une capacité à s'adapter et inventer de nouvelles solutions.* Il ne nie pas la présence d'une cause extérieur efficiente, du force supérieur, mais il la voit comme secondaire face à la créativité du vivant. Si le vivant avait un plan strict, le moindre monstre serait un échec définitif ; cependant, chez le vivant, c'est tout l'inverse : l'anomalie peut devenir une nouvelle manière de vivre, une nouvelle norme.\
-+ Canguilhem se propose ensuite _page 155_ de se détourner de Descartes et de  son mécanisme mais sans toutefois tomnber dans un vitalisme mystique et va trouver la solution chez Kant, qui dissocie la machine et l'organisme. _Page 156_, une citation de Kant s'accord avec la pensée de Canguilhem : dans une machine les pièces s'ajustent les unes par rapport aux autres grâce au travail de l'ingénieur ; par exemple dans une montre, le ressort fait fonctionner la montre mais ce n'est pas le ressort qui crée la montre, et c'est en cela que la machine s'oppose à l'organisme vivant ; et l'opposition à l'organisme se fait là car dans l'organisme les parties s'organisent pour elles mêmes et par elles mêmes, il y a une inter-dépendance dans l'ogranisme des parties qui le composent : le tout produit les parties et les parties produisent le tout. Une montre ne fait pas de montre, aucune machine ne possède un pouvoir de reproduction ou de réparation, tandis qu'un organisme se répare et se reproduit. Kant distingue ainsi la technique intentionnelle de l'homme de la technique inintentionnelle de la vie. Autrement dit, *le vivant est une technique sans technicien.*
++ Canguilhem se propose ensuite _page 155_ de se détourner de Descartes et de  son 	      mécanisme mais sans toutefois tomnber dans un vitalisme mystique et va trouver la solution  chez Kant, qui dissocie la machine et l'organisme. _Page 156_, une citation de Kant   s'accorde avec la pensée de Canguilhem : dans une machine les pièces s'ajustent les unes par rapport aux autres grâce au travail de l'ingénieur ; par exemple dans une montre, le ressort fait fonctionner la montre mais ce n'est pas le ressort qui crée la montre, et c'est en cela que la machine s'oppose à l'organisme vivant ; et l'opposition à l'organisme se fait là car dans l'organisme les parties s'organisent pour elles mêmes et par elles mêmes, il y a une inter-dépendance dans l'ogranisme des parties qui le composent : le tout produit les parties et les parties produisent le tout. Une montre ne fait pas de montre, aucune machine ne possède un pouvoir de reproduction ou de réparation, tandis qu'un organisme se répare et se reproduit. Kant distingue ainsi la technique intentionnelle de l'homme de la technique inintentionnelle de la vie. Autrement dit, *le vivant est une 	technique sans technicien.*
 
-	_Page 157 - 163_, Canguilhem, pour retourner le rapport machine-organisme, propose de postuler que les machines ont été conçues sur le modèle de l'organisme vivant. Pour Canguilhem, la technique est d'abord un phénomène biologique ; il dit _page 163_ qu'il faut considérer la technique comme un phénomène biologique universel et non plus seulement comme une opération intellectuelle de l'homme. La machine apparaît comme un organe exogène, un complément de l'organisme, une stratégie de la vie pour mieux s'adapter. Pour Canguilhem, la technique vient d'un élan vital, ce n'est pas quelque chose de purement intellectuel.
+ _Page 157 - 163_, Canguilhem, pour retourner le rapport machine-organisme, propose de postuler que les machines ont été conçues sur le modèle de l'organisme vivant. Pour Canguilhem, la technique est d'abord un phénomène biologique ; il dit _page 163_ qu'il faut considérer la technique comme un phénomène biologique universel et non plus seulement comme une opération intellectuelle de l'homme. La machine apparaît comme un organe exogène, un complément de l'organisme, une stratégie de la vie pour mieux s'adapter. Pour Canguilhem, la technique vient d'un élan vital, ce n'est pas quelque chose de purement intellectuel.
 
 == Le vivant et son milieu
 
 _Page 165_, tout le monde parle de milieu mais personne ne s'accorde sur ce qu'est vraiment un milieu, et c'est pour cela que la philosophie doit reprendre l'initiative. En quoi est-ce pertinent de se pencher sur le concept de milieu pour comprendre la nature.\
 Le terme et la notion de milieu apparaissent au $"XVIII"^e$ siècle et se popularisent au $"XIX"^e$. Le but de Canguilhem est de montrer comment passer d'un concept physique à un concept biologique Il part de Newton pour rappeler que le terme de milieu est d'abord lié à la mécanique. À l'origine le milieu désigne l'espace intermédiaire qui permet l'action à distance entre deux corps. Canguilhem critique cette importation de la physique a la biologie car elle a la conséquence de réduire le viant a un simple objet passif soumis à son environnement : en migrant de la physique à la biologie, l'idée de milieu a conservé tout son déterminisme, l'organisme est présenté comme un objet passif soumis aux influences de son milieu.
 
-_Page 168_ il parle de l'opposition entre Lamarck et Darwin. La téhorie de Lamarck réfléchit sur la transmission des propriétés d'individus en individus et l'influence du milieu sur les êtres vivants. Pour lui, les êtres vivants se transforment en fonction de leurs besoin, c'est l'environnement qui crée de nouveaux besoins et l'organisme change pour répondre à ces besoins. Lamarck s'oppose ainsi à Darwin, pour qui les individus présentent au contraire des évolutions naturelles plus aléatoires, car l'environnement ne provoque pas des changements mais sélectionne les individus les mieux adaptés. Certaines girafe naissent avec un cou plus long, et c'est elles qui vont survivre car elles peuvent se nourir et vont donc davantage se reproduire. On pourrait se dire qu'il ne s'agit que d'une querelle entre naturalistes, mais il s'agit de deux manières philosophiques distinctes de voir la vie. Lamark est un vitaliste dont la vision repose sur deux idée : le milieu est une puissance étrangère, hostile, qui oblige un être vivant à réagir ; le vivant répond donc à cette puissance hostile en faisant un effort interne. Canguilhem est donc d'accord avec Lamarck, l'adaptation de l'organisme est une victoire interne, et le qualifie de vitalisme nu.\
+_Page 168_ il parle de l'opposition entre Lamarck et Darwin. La théorie de Lamarck réfléchit sur la transmission des propriétés d'individus en individus et l'influence du milieu sur les êtres vivants. Pour lui, les êtres vivants se transforment en fonction de leurs besoin, c'est l'environnement qui crée de nouveaux besoins et l'organisme change pour répondre à ces besoins. Lamarck s'oppose ainsi à Darwin, pour qui les individus présentent au contraire des évolutions naturelles plus aléatoires, car l'environnement ne provoque pas des changements mais sélectionne les individus les mieux adaptés. Certaines girafe naissent avec un cou plus long, et c'est elles qui vont survivre car elles peuvent se nourir et vont donc davantage se reproduire. On pourrait se dire qu'il ne s'agit que d'une querelle entre naturalistes, mais il s'agit de deux manières philosophiques distinctes de voir la vie. Lamark est un vitaliste dont la vision repose sur deux idée : le milieu est une puissance étrangère, hostile, qui oblige un être vivant à réagir ; le vivant répond donc à cette puissance hostile en faisant un effort interne. Canguilhem est donc d'accord avec Lamarck, l'adaptation de l'organisme est une victoire interne, et le qualifie de vitalisme nu.\
 _Page 175_, il revient à Darwin en disant qu'un milieu n'est pas seulement physique, mais est avant tout une réalité biologique ; le milieu ne provoque pas de changement mais tri les organismes. La thèse de Canguilhem est de reprocher aux deux théories de rester trop souvent dans un cadre extérieur : pour eux, le vivant ne fait que subir, que réagir face à son milieu, tandis que pour Canguilhem le vivant est là pour transformer son milieu.
 
 _Page 181_ Canguilhem revient sur l'adaptation de l'animal et surtout de l'homme à son milieu en accord avec une idée reexprimée _page 184_ : "le propre du vivant, c'est de se faire son milieu, de se composer son milieu". _Page 182_, il parle de "créateur de configuration géographique". Pour Canguilhem, chez l'animal le milieu est déjà le résultat d'une sélection : un animal ne perçoit pas tout son environnement mais seulement ce qui fait sens pour lui et pour sa survie. C'est ce que _Uexküll_ appelle _die Umwelt_ (_die Welt_ = le monde, ici c'est le milieu qui entoure un animal et fait sens pour lui). Mais par rapport à l'animal, l'homme ne se contente pas de subir et sélectionner son milieu, l'homme le réorganise. Là où l'animal répond à un problème par un instinct, l'homme utilise toute sa technique pour ne proposer pas une solution mais une multitude de solutions. Ainsi, l'homme est un "créateur de configuration géographique" car cette configuration n'est plus un obstacle ou une fatalité pour l'homme : l'homme peut y trouver une multitude de solution.
@@ -279,10 +279,88 @@ Canguilhem affirme qu'il faut aborder positivement, c'est à dire rationnellemen
 	*Goya*
 ])
 
-Le monstre est fantasme et défaillance de la raison
+Le monstre est fantasme et défaillance de la raison.
 
 La tératologie devient une science naturelle et même une tératogénie où on crée des monstres. Le paradoxe du monde moderne est que le monstreux est maintenant raccroché au normal : le monstre biologique n'est plus un objet de peur, mais de pitié. Ce qui fait peur maintenant c'est le vice caché dans le normal.
 
 _Page 234_, la vie crée toute seule ses monstres, le savant ne fait que perturber ou personnaliser un procédé que la nature fait sans lui. La vie est pauvre en monstre car les organismes ne sont capable d'excentricité qu'à un cours moment de leur développement, le stade embryonnaire, tandis que le fantastique est un monde car il est capable de peupler un monde, il est infatigable.
 
-Chez Canguilhem, il n'y a pas de monstreux chez les monstruosités biologiques, et la vie n'est que pauvre en monstre
+Chez Canguilhem, il n'y a pas de monstre chez les monstruosités biologiques, et la vie n'est pas pauvre en monstre
+
+= Les citations
+
+#quotation([
+	*Introduction*
+
+	"[...] l'attention qu'on y donne aux opérations du connaître entraîne la distraction à l'égard du sens de connaître"\
+
+	"[...] savoir pour savoir ce n'est guère plus sensé que manger pour manger, ou tuer pour tuer, ou rire pour rire(, puisque c'est à la fois l'aveu que le savoir doit avoir un sens et le refus de lui trouver un autre sens que lui-même.)"\
+	
+	"Et pour tout dire, on ne vit pas de savoir."\
+
+	"Elle [la connaissance] est donc une méthode générale pour la résolution directe ou indirecte des tensions entre l'homme et le milieu."\
+
+	"sa [la connaissance] fin qui est de permettre à l'homme un nouvel équilibre avec le monde, une nouvelle forme et une nouvelle organisation de sa vie"\
+
+	"Sans doute l'animal ne sait-il pas résoudre tous les problèmes que nous lui posons, mais c'est parceque ce sont les nôtress et non les siens. L'homme ferait-il mieux que l'oiseau son nid, mieux que l'araignée sa toile ?"\
+
+	"la connaissance est fille de la peur humaine" \<\- le savoir scientifique est une réaction à l'angoisse que la vie et la nature font peser sur nous\ 
+
+	("Si la connaissance est fille de la peur c'est pour la domination et l'organisation de l'expérience humaine, pour la liberté de la vie"\)
+
+	"Les formes vivantes étant des totalités dont le sens réside dans leur tendance à se réaliser comme telles au cour de leur confrontation avec leur milieu, elles peuvent être saisies dans une vision, jamais dans une division. Car diviser c'est, à la limite, et selon l'étymologie, faire le vide, et une forme, n'étant que comme un tout, ne saurait être vidée de rien"\
+
+	"seule la représentation de la totalité permet de valoriser les faits établis en distinguant ceux qui ont vraiment rapport à l'organisme et ceux qui sont, par rapport à lui, insignifiants."\
+])
+
+#quotation([
+	*Méthode : L'expérimentation en biologie animale*
+	
+	"[Sur une expérience sur la contraction musculaire, et sur le fait que répondre au comment sans répondre au pourquoi ne sert à rien : ] Or, c'est un fait épistémologique qu'un fait expérimental ainsi enseigné n'a aucun sens biologique."\
+	
+])
+
+#quotation([
+	"Claude Bernard affirme que ce n'est pas en se demandant à quoi sert tel organe qu'on en découvre les fonctions. C'est en uivant les divers moments et les divers aspects de telle fonction qu'on découvre l'organe ou l'appareil qui en a la responsabilité"
+
+	"La science antique, écrit Claude Bernard, n'a pu concevoir que le milieu extérieu ; mais il faut, pour fonder la science biologique expérimentale, concevoir de plus un _milieu intérieur_... ; le milieu intérieur, créé par l'organisme, est spécial à chaque être vivant. Or, c'est là le vrai milieu physiologique"
+
+	"[...] la connaissance des fonctions de la vie a toujours été expérimentale,[...]. Nous apprenons nos fonctions dans des epxériences et nos fonctions sont ensuite des expériences formalisées"
+
+	"Les hérissons, en tant que tels, ne traversent pas les routes. Ils explorent à leur façon de hérisson leur milieu de hérisson [...]. En revanche, ce sont les routes de l'homme qui traversent le milieu du hérisson."
+
+	*Philosophie : Machine et organisme*
+
+	"Pour un observateur scrupuleux, les êtres vivants et leurs formes présentent rarement, à l'exception des vertébrés, des dispositifs qui puissent donner l'idée d'un mécanisme, au sens que les savants donnent à ce terme"
+
+	"La vie est expérience, c'est-à-dire improvisation, utilisation des occurences ; elle est tentative dans tous les sens. D'où ce fait, à la fois massif et très souvent méconnu, que la vie tolère des monstruosités. Il n'y a pas de machine monstre"
+
+	"Kant distingue la technique intentionnelle de l'homme de la technique inintentionnelle de la vie."
+
+	*Philosophie : Le vivant et son milieu*
+
+	"Dans un milieu humain, l'homme est évidemment soumis à un déterminisme, mais c'est le déterminisme de créations artificelles dont l'esprit d'invention qui les appela à l'existance s'est alliéné."
+
+	"Or, le propre du vivant c'est de se faire son milieu, de se composer son milieu"
+
+	"En fait, en tant que milieu propre de comportement et de vie, le milieu des valeurs sensibles et techniques de l'homme n'a pas en soi plus de réalité que le milieu propre du cloporte ou de la souris grise."])
+
+#quotation([
+	*Philosophie : Le normal et le pathologique*
+
+	"Il ne s'agit au fond de rien de moins que de savoir si, parlant du vivant, nous devons le traiter comme système de lois ou comme organisation de propriétés [...]. Dans une telle vue, le singulier, c'est-à-dire l'écart, la variation, apparaît comme un échec, un vice, une impureté."
+	
+	"Une anomalie, c'est étymologiquement une inégalité, une différence de niveau. L'anomal c'est simplement le différent."
+
+	"Inversement si l'on tient le monde vivant pour une tentative de hiérarchiation des formes possibles, il n'y a en soi et _a priori_ de différence entre une forme réussie et une forme manquée. Il n'y a même pas à proprement parler de formes manquées."
+
+	"la vie à l'état pathologique n'est pas absence de normes mais présence d'autres normes. "pathologique" est le contraire vital de "sain" et non le contradictoire logique de normal.
+
+	*Philosophie : La monstruosité et le monstreux*
+
+	"Il faut réserver aux seuls êtres organiques la qualification de monstre"
+
+	"le montre n'est pas seulement le vivant de valeur diminuiée, c'est un vivant dont la valeur est de repoussoir"
+
+	"C'est la monstruosité et non pas la mort qui est la contre-valeur vitale. La mort c'est la menace permanente et inconditionnelle de décomposition de l'organisme, c'est la limitation par l'extérieur, la négation u vivant par le non-vivant. Mais la monstruosité c'est la menace accidentelle et conditionnelle d'inachèvement ou de distorsion dans la formation de la forme, c'est la limitation par l'intérieur, la négation du vivant par le non-viable."
+])
