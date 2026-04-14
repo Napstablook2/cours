@@ -444,7 +444,7 @@ Pour ce chapitre il faut être au clair sur les concepts de :
 ])
 
 #remarque([
-	Certains symboles de fonctions peuvent parfoirs être urilisés en notatin infixe ou postfixe. Par exemple si $circle.small$ et $circle.filled.small$ sont infixes, on écrirait plutôt\
+	Certains symboles de fonctions peuvent parfoirs être urilisés en notation infixe ou postfixe. Par exemple si $circle.small$ et $circle.filled.small$ sont infixes, on écrirait plutôt\
 	$f" "x" "circle.small" "(f" "y" "circle.small.filled" "f" "x)$
 ])
 
@@ -466,16 +466,16 @@ Pour ce chapitre il faut être au clair sur les concepts de :
 
 #exemple([\
 	Sur $L_1$, $forall x" "forall y" "((x union y)^complement = x^complement inter y^complement)$ est une formule\
-	SUr $L_0$, $exists x" "f(c) = c$ est une formule
+	Sur $L_0$, $exists x" "f(c) = c$ est une formule
 
-	Comme pour le calcul propositionnel, chaque formule a une arbre syntaxique, sur les formules précédentes ce sont :
-
+	Comme pour le calcul propositionnel, chaque formule a une arbre syntaxique, sur les formules précédentes ce sont :\
+	[Insérer arbres si un jours j'ai pas la flemme des les faire]
 	
 ])
 
 #remarque([
 	Classiquement, les priorités des connecteurs sont :\
-	$->" "<" "forall x," "exists x" "<" "or, and" "<" "not$
+	$=>" "<" "forall x," "exists x" "<" "or, and" "<" "not$
 
 	Par exemple, $forall x" "p(x) => q(x)$ s'interprète $(forall x" "p(x)) => q(x)$
 ])
@@ -508,7 +508,7 @@ Pour ce chapitre il faut être au clair sur les concepts de :
 	- $forall x" "exists y" "x + y = y$ X $forall x" "exists z" "x + z = y$\
 		$->$ Renommage d'une partie des occurences dans la portée du renommage
 
-	- $forall y" "x + y = y$ X $forall y" " x + x = x$\
+	- $forall y" "x + y = y$ X $forall x" " x + x = x$\
 		$->$ Capture de variable
 	
 	- $exists x" "forall y" "x + y = y$ X $exists y" "forall y" "y + y = y$\
@@ -518,7 +518,7 @@ Pour ce chapitre il faut être au clair sur les concepts de :
 #definition([
 	Soit $phi$ une formule, $x$ une variable et $t$ un terme\
 	Substituer $x$ par $t$ dans $phi$ produit une formule $phi[t\/x]$ qu'on obtient à partir de $phi$ de manière suivante :
-	- Renommer les occurences de variables liées dans $phi$ de sorte ) ce qu'aucune variable intervenant dans $t$ ne soit capturée
+	- Renommer les occurences de variables liées dans $phi$ de sorte à ce qu'aucune variable intervenant dans $t$ ne soit capturée
 	- Remplacer toutes les occurences libres de $x$ par $t$
 ])
 
@@ -532,7 +532,7 @@ Pour ce chapitre il faut être au clair sur les concepts de :
 	De même pour $(forall x" "exists z" "x inter z = z inter y) and (x = z union z)$\
 	
 	Renommage : ($forall u" "exists z" " u inter z = z inter y) and (x = z union z)$\
-	On remplace : $(forall u" "exists z" "u inter z = z inter y) and (x = x^complement union u^complement)$
+	On remplace : $(forall u" "exists z" "u inter z = z inter y) and (x = x^complement union x^complement)$
 ])
 
 == Déduction naturelle pour le calcul des prédicats
@@ -610,7 +610,7 @@ Pour ce chapitre il faut être au clair sur les concepts de :
 		rule(label:[], name:[ax],$e = x tack e = x$)
 		,$e = x tack forall x(e = x)$
 	))
-	2. Si on néglige la codition pour elim-$exists$
+	2. Si on néglige la condition pour elim-$exists$
 	#prooftree(rule(
 		label : [], name : [intro-$=>$],
 		rule(

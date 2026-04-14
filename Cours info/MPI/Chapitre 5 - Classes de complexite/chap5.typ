@@ -213,7 +213,7 @@ Sources :\
 ])
 
 #warning([
-  Si dans une copie vous écrivez quelque chose que P = NP c'est qu'il y a sûrement une merde quelque part.
+  Si dans une copie vous écrivez quelque chose qui implique que  P = NP c'est qu'il y a sûrement une merde quelque part.
   
 
   NP veut dire "non-deterministic polynomial" et PAS "non-polynomial"

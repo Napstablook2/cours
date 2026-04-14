@@ -75,7 +75,7 @@ Un autre problème des langages rationnels : ils ne capturent pas certains langa
   $G = ({a,b}, {S}, S, {(S, epsilon), (S, a S b)})$ est une grammaire
 
   #info(title : [Conventions])[
-    - À la place d'écrire $(X, m)$ pour décrire une règle,\ on écrit $X -> m$, où ($->$ se lit "sse réécrit en")
+    - À la place d'écrire $(X, m)$ pour décrire une règle,\ on écrit $X -> m$, où ($->$ se lit "se réécrit en")
 
     - Si $X -> m_1$ et $X -> m_2$ sont des règles, on écrit plutôt $X -> m_1 | m_2$
 

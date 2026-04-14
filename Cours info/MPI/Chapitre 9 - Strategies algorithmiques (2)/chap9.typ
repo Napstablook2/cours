@@ -46,7 +46,7 @@ Pour trouver une solution d'un problème (en particulier d'optimisation) NP-Comp
 
 #pagebreak()
 
-= Alorithmes d'appproximations à facteur constant
+= Algorithmes d'appproximations à facteur constant
 
 == Définition
 
@@ -121,8 +121,8 @@ On se place dans le cadre des problèmes d'optimisation.
 ])
 
 #info(title : [Point méthode : Pour montrer qu'un algorithme d'approximation a un facteur d'approximation qui est exactement $alpha$])[
-	- Trouver une intance telle que $C = alpha C^*$
-	- Trouver une suite d'instance telle que le ration entre $C$ et $C^*$ tende vers $alpha$
+	- Trouver une instance telle que $C = alpha C^*$
+	- Trouver une suite d'instance telle que le ratio entre $C$ et $C^*$ tende vers $alpha$
 ]
 
 #demo([
@@ -265,7 +265,7 @@ Un deuxième algorithme est de trier les objets par ordre décroissant de $v_i /
 
 #definition([Deux types d'algorithme probabiliste au programme
 
-- Les algorithmes *La Vegas* : toujours correct, probablement rapide
+- Les algorithmes *Las Vegas* : toujours correct, probablement rapide
 - Les algorithmes *Monte Carlo* : toujours rapide, probablement correct
 
 ])
@@ -311,11 +311,11 @@ L'objectif ici est de déterminer leur complexité espérée, on fixe une instan
 	Il existe des instances pour laquelle la complexité est quadratique, car si on a $p = n-1$, $q = 0$, à chaque étape :\ $C(n) = C(n-1) + O(n)$\
 	Ainsi $C(n) = ouset(sum, n, i=0)i = O(n^2)$
 
-	Pour obtenir la majoreation, on peut pracéder par récurrence, c'est à dire montrer par récurrence que $C(n) <= k n^2$ avec $k$ fixé indépendant de n
+	Pour obtenir la majoration, on peut procéder par récurrence, c'est à dire montrer par récurrence que $C(n) <= k n^2$ avec $k$ fixé indépendant de n
 ])
 
 #prop([
-	La complexité pire cas du Tri rapide randomisé (où le pivot est choisit aléatoirement uniformément) est en $O(n^2)$ mais en espérence elle est en $O(n log n)$
+	La complexité pire cas du tri rapide randomisé (où le pivot est choisit aléatoirement uniformément) est en $O(n^2)$ mais en espérence elle est en $O(n log n)$
 ])
 
 #demo([
@@ -334,11 +334,11 @@ L'objectif ici est de déterminer leur complexité espérée, on fixe une instan
 	+ Si le pivot n'est pas dans $E_(i j)$, on recommence le tirage mais juste sur la moitié S' telle que $E_(i j) subset S'$
 
 	Si on est dans 1, $X_(i j) = 1$\
-	Si on est dans 0, $X_(i j) = 0$, car le pivot sépare les deux\
-	Si on est dans trois, on ne sait pas encore car les deux peuvent encore être comparés
+	Si on est dans 2 $X_(i j) = 0$, car le pivot sépare les deux\
+	Si on est dans 3, on ne sait pas encore car les deux peuvent encore être comparés
 
 	Ainsi, $forall k in NN, PP_("le jeu a fait" k " étapes")(X_(i j) = 1) = 2 / (j - i + 1)$\
-	Ainsi, $PP(X_(i j)) = ouset(sum, + infinity, k = 1) PP(X_(i j) = 1 | "le jeu a fait" k "étapes")times PP("jeu fait" k "étapes")$\
+	Ainsi, $PP(X_(i j) = 1) = ouset(sum, + infinity, k = 1) PP(X_(i j) = 1 | "le jeu a fait" k "étapes")times PP("jeu fait" k "étapes")$\
 	$= 2/(j-i+1) ouset(sum,,k>=1)PP("le jeu fait "k " étapes") $ où la somme fait $PP("le jeu termine") = 1$
 
 	On remplace dans $EE[X]$\
@@ -363,7 +363,7 @@ L'objectif ici est de déterminer leur complexité espérée, on fixe une instan
 			,
 			[Analyse d'un algorithme probabiliste], [Analyse probabiliste d'un algorithme déterministe],
 			[On moyenne sur les choix probabilistes], [On moyenne sur les entrées d'une taille donnée],
-			[On calcule le maximum sur les entrée de\ taille $n$ du temps espéré sur l'entrée\ où le temps espéré sur l'enrée est la somme\ pour tout les choix possible du temps de\ calcul en faisant ce choix, pondérés par la\ probabilité du choix], [On calcule $1/("nombre d'entrées de taille n")times$ la somme du temps de calcul sur chaque entrée]
+			[On calcule le maximum sur les entrée de\ taille $n$ du temps espéré sur l'entrée\ où le temps espéré sur l'entrée est la somme\ pour tout les choix possible du temps de\ calcul en faisant ce choix, pondérés par la\ probabilité du choix], [On calcule $1/("nombre d'entrées de taille n")times$ la somme du temps de calcul sur chaque entrée]
  	)
 	#set text(size : 13pt)
 ])
